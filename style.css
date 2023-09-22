@@ -7,7 +7,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #153677,#4e085f);
+    background: linear-gradient(135deg, #ffb25a,#80ff36);
     padding: 10px;
 }
 .todo-app{
@@ -48,7 +48,7 @@ button {
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #8945ff;
+    background: #ffbf1c;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
